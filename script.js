@@ -1,4 +1,4 @@
-const output = document.querySelector("#test");
+const output = document.querySelector("#screen");
 const buttons = document.querySelectorAll('.num');
 const clearButton = document.querySelector(".clear");
 const equalsButton = document.querySelector(".equals")
